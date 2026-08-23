@@ -1,0 +1,9 @@
+app = "stream-proxy"
+primary_region = "ams"
+
+[build]
+
+[[vm]]
+cpu_kind = "shared"
+cpus = 1
+memory_mb = 256
